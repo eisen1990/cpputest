@@ -2,3 +2,6 @@ Written by Eisen, CBNU, REP of KOREA
 
 How to run a test:
 	make
+
+CppUTest Framework를 사용하여 Embedded 개발보드에 RTOS 포팅하는 TDD 코드
+
