@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define IRQ 15
+#define IRQ 27
 
 #define readl(a) (*(volatile unsigned int *)(a))
 #define writel(a,v) (*(volatile unsigned int *)(a)) = (v)
