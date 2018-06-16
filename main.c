@@ -8,6 +8,8 @@
 #define readl(a) (*(volatile unsigned int *)(a))
 #define writel(a,v) (*(volatile unsigned int *)(a)) = (v)
 
+//Git Test
+
 //GICD Register
 #define GICD_MEMORY_SIZE 227
 
